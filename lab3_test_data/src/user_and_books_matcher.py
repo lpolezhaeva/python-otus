@@ -1,8 +1,8 @@
 import json
 
 from csv import DictReader
-from lab2_test_data.files import BOOKS_FILE_PATH
-from lab2_test_data.files import USERS_FILE_PATH
+from lab3_test_data.files import BOOKS_FILE_PATH
+from lab3_test_data.files import USERS_FILE_PATH
 
 
 def read_books(file_name):

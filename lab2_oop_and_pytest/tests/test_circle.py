@@ -1,6 +1,6 @@
 import pytest
 import math
-from src.circle import Circle
+from lab2_oop_and_pytest.src.circle import Circle
 
 
 def test_circle_init_positive():

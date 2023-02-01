@@ -1,4 +1,4 @@
-from src.square import Square
+from lab2_oop_and_pytest.src.square import Square
 
 
 def test_square_init_positive():

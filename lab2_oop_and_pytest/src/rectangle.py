@@ -1,4 +1,4 @@
-from src.figure import Figure
+from lab2_oop_and_pytest.src.figure import Figure
 
 
 class Rectangle(Figure):

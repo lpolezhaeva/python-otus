@@ -1,6 +1,6 @@
 import pytest
-from src.rectangle import Rectangle
-from src.triangle import Triangle
+from lab2_oop_and_pytest.src.rectangle import Rectangle
+from lab2_oop_and_pytest.src.triangle import Triangle
 
 
 def test_add_area_positive():

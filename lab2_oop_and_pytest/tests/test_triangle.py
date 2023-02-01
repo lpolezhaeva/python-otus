@@ -1,5 +1,5 @@
 import pytest
-from src.triangle import Triangle
+from lab2_oop_and_pytest.src.triangle import Triangle
 
 
 def test_triangle_init_positive():

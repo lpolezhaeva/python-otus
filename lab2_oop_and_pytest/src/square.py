@@ -1,4 +1,4 @@
-from src.rectangle import Rectangle
+from lab2_oop_and_pytest.src.rectangle import Rectangle
 
 
 class Square(Rectangle):
